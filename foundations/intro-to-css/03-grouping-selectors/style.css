@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.m1 , .m2{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+
+}
+
+.m1{
+    background-color: #000;
+    color: hsl(0, 0%, 100%);
+}
+
+.m2{
+    background-color: yellow;
+}
